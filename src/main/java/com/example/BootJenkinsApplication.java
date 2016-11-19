@@ -8,6 +8,7 @@ public class BootJenkinsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BootJenkinsApplication.class, args);
+		// test 122
 		
 		
 	}
